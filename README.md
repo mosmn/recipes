@@ -1,6 +1,2 @@
 # recipes
-The problem solved:
-
-The approache:
-
-Actual solution:
+A simple HTML website for showcasing my best dishes and how to prepare them.
