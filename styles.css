@@ -1,5 +1,15 @@
+body {
+    background-color: bisque;
+}
+
+p,
+ul,
+ol {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .mainheader {
-    font-family: "Brush Script MT";
+    font-family: "Brush Script MT", 'Times New Roman', Times, serif;
     font-size: 35px;
     text-align: center;
 }
